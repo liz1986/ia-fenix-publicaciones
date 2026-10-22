@@ -1,0 +1,8 @@
+Deja de releer apuntes. Usa este prompt 👇
+
+"Actúa como profesor de Formulación Magistral para técnicos de farmacia. Con el texto que te pego abajo, crea un test de 10 preguntas tipo test (4 opciones, una correcta). Después de que responda, corrígeme, explica cada error y dime qué parte del texto repasar. No inventes datos que no estén en el texto. TEXTO: [pega aquí tus apuntes]"
+
+⚠️ Usa solo tus propios apuntes o material que tengas derecho a usar, y comprueba siempre los datos con el Formulario Nacional.
+📌 Guárdalo para tu próximo repaso.
+
+#IAenFarmacia #EstudiarConIA #FormulaciónMagistral #TécnicoDeFarmacia #IAFenixAcademy
